@@ -4,3 +4,4 @@ pub mod range_sum_query;
 pub mod reverse_integer;
 pub mod length_of_longest_substring;
 pub mod atoi;
+pub mod palindrome_number;
